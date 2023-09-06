@@ -1,10 +1,7 @@
-## About AntChain Open Lab
+## About AntChain Open Labs
 
-AntChain Open Lab is a research institution initiated by AntChain and world leading computer scientists 
-in the area of foundational trust technologies including blockchain protocols, security, data privacy and data analytics. 
-
-It is dedicated to defining, exploring and building a secure, transparent and reliable Web 3.0 infrastructure and enabling services 
-through research and innovation.
+AntChain Open Labs is a research center initiated by AntChain and world leading computer scientists in the area of foundational trust technologies. 
+It is dedicated to building a secure, transparent and reliable Web3 infrastructure driven by innovative research and aiming to advance transformative services.
 
 
 <!--
